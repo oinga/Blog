@@ -35,7 +35,7 @@ p {
     border-radius: 10px;
 }
 #header {
-    background-image: url("https://www.sololearn.com/Uploads/header.jpg");
+    background-image: url("https://understandrisk.org/wp-content/uploads/URF-Header.png");
     background-size: cover;
 }
 #header img {
@@ -87,7 +87,7 @@ progress::-webkit-progress-bar {
 }
 progress::-webkit-progress-value {
     background: #3fb6b2;
-} 
+}
 progress::-moz-progress-bar {
     color: #3fb6b2;
     background: #efefef;
