@@ -35,7 +35,7 @@ p {
     border-radius: 10px;
 }
 #header {
-    background-image: url("https://understandrisk.org/wp-content/uploads/URF-Header.png");
+    background-image: url("http://www.liranz.com/wp-content/uploads/2016/11/header10.jpg");
     background-size: cover;
 }
 #header img {
@@ -106,6 +106,7 @@ form {
     text-align: center;
     margin-top: 0;
 }
+
 .submit {
     background-color: #3fb6b2;
     padding: 12px 45px;
